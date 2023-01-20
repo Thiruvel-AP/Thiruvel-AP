@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thiruvel-AP
 - 👀 I’m interested in coding and problem solving
 - 🌱 I’m currently working on web Development and Data Science 
-- 💞️ I’m looking to go forward
+- 💞️ I’m looking to learn stuffs in advance computing and cloud architecture
 - 📫 To reach my goal  
 
 <!---
