@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and problem solving
 - 🌱 I’m currently working on Mobile Applications Development and Web Application Development.
 - 💞️ I’m looking to learn stuffs in advance computing.
-- 🧑‍💻 Moving Forward towards Reality development.
+- 🧑‍💻 Moving Forward towards AI.  
 - 📫 To reach my goal  
 
 <!---
