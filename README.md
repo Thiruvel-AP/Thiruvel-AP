@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Thiruvel-AP
-- 👀 I’m interested in coding and problem solving
-- 🌱 I had worked in Mobile Applications Development and Web Application Development.
-- 💞️ I’m learning stuffs in advance computing.
-- 🧑‍💻 Moving Forward towards AI.  
-- 📫 To reach my goal  
+- 👀 I’m interested in SCIENCE, TECHNOLOGY, ENGINEERING & MATHEMATICS. 
+- 🌱 I had worked in Application Development in mobile and web. Moving towards the passion on AI.  
+- 💞️ I’m learning stuffs in advance computing and AI.
+- 🧑‍💻 Hands on projects in ML & DL.  
+- 📫 Team colloborate and problem solving.    
 
 <!---
 Thiruvel-AP/Thiruvel-AP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
