@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Thiruvel-AP<br>👀 I’m interested in SCIENCE, TECHNOLOGY, ENGINEERING & MATHEMATICS.<br>🌱 I am working with Generative AI, AI agents, Agentic AI, Machine Learning, Data Modelling, Deep Learnings.<br>💞️ I’m learning stuffs in qunatum computing with AI to solve and improve the solutions for the existing problems in STEM<br>🧑‍💻 Hands on projects in ML & DL, AI Agents, Agentic AI Systems. <br>📫 Team collaborate and Problem solving. <br> 💬 Let’s build intelligent systems that scale for the better world.
+👋 Hi, I’m @Thiruvel-AP, I am a Data Scientist/AI Engineer<br>👀 I’m interested in SCIENCE, TECHNOLOGY, ENGINEERING & MATHEMATICS.<br>🌱 I am working with Generative AI, AI agents, Agentic AI, Machine Learning, Data Modelling, Deep Learnings.<br>💞️ I’m learning stuffs in qunatum computing with AI to solve and improve the solutions for the existing problems in STEM<br>🧑‍💻 Hands on projects in ML & DL, AI Agents, Agentic AI Systems. <br>📫 Team collaborate and Problem solving. <br> 💬 Let’s build intelligent systems that scale for the better world.
 
 
 ## 🌐 Socials:
